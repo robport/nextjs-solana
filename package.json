@@ -1,11 +1,9 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "test": "jest --watch",
-    "test:ci": "jest --ci"
+    "test": "jest"
   },
   "dependencies": {
     "@solana/web3.js": "^1.66.2",
